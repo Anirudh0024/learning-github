@@ -1,4 +1,4 @@
 # learning-github
 This is my first git repository
 <br>
-Author- Anirudh Singh
+Author- Anirudh Singh(mine)
